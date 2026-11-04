@@ -5,4 +5,5 @@ git add .
 git commit -m "data: clean AI developer dataset - handle nulls, remove duplicates"
 Fix data types for Hours_Coding, Sleep_Hours, Task_Success_Rate
 Handle outliers in Lines_of_Code and Bugs_Found"
+git commit -m "analysis: add EDA and insights on AI developer performance"
 git push
